@@ -1,0 +1,37 @@
+<annotation>
+    <folder>Images</folder>
+    <filename>hard_hat_workers581.png</filename>
+    <path>C:\my-files\New folder\woboAI\Section 3\Images\hard_hat_workers581.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>416</width>
+        <height>415</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>helmet</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>274</xmin>
+            <ymin>72</ymin>
+            <xmax>323</xmax>
+            <ymax>140</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>helmet</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>273</xmin>
+            <ymin>0</ymin>
+            <xmax>324</xmax>
+            <ymax>62</ymax>
+        </bndbox>
+    </object>
+</annotation>
